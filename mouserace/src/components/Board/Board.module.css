@@ -1,0 +1,7 @@
+.board {
+  width: 70vw;
+  height: 90vh;
+  background: #8f7ae3;
+  position: relative;
+  gap: 12px;
+}

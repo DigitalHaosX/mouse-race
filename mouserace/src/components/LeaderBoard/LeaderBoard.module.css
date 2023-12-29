@@ -1,0 +1,9 @@
+.centered {
+  text-align: center;
+}
+
+.wrapper {
+  padding: 5px 16px;
+  border: 1px solid #030303;
+  border-radius: 7px;
+}

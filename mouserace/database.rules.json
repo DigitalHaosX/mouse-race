@@ -1,0 +1,9 @@
+{
+    "rules": {
+      ".read": "now < 1703973600000",
+      ".write": "now < 1703973600000",
+      "leaderboard": {
+        ".indexOn": "time"
+      }
+    }
+  }
